@@ -1,5 +1,4 @@
 # ECS Service Terraform Module Development
-# 🚀 terraform-aws-ecs-service
 
 This Terraform module provisions **Amazon ECS services** integrated with best practices, including support for:
 
